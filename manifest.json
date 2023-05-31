@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Tabatha",
+  "version": "0.0.0.1",
+  "description": "Save a group of tabs to a new folder in the main bookmarks directory",
+  "icons": {
+    "16": "icons/icons8-bookmark-16.png",
+    "48": "icons/icons8-bookmark-48.png",
+    "128": "icons/icons8-bookmark-128.png"
+  },
+  "permissions": [
+    "bookmarks",
+    "tabs",
+    "tabGroups"
+  ],
+  "action": {
+    "default_title": "Save Tabs",
+    "default_popup": "index.html"
+  }
+}
+  

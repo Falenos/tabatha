@@ -1,0 +1,18 @@
+body {
+    width: 100px;
+    overflow: hidden;
+    background: white;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+    margin: auto;
+}
+
+img {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
