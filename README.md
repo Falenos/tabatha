@@ -1,6 +1,7 @@
 # Tabatha
 
 Tabatha is a Chrome extension that allows you to group your tabs and store them in a bookmarks directory with the same name.
+In case you use it for ungrouped tabs, the folder name is the bookmarks directory will be the date and time.
 
 ## Installation
 
@@ -18,9 +19,8 @@ To install the extension, follow these steps:
 To use the extension, follow these steps:
 
 1. Click the extension icon in the top right corner of the browser window.
-2. Enter a name for your tab group in the popup window.
-3. Click the "Save" button to save your tab group.
-4. To view your tab group, click the "Bookmarks" menu in the top left corner of the browser window and navigate to the directory with the same name as your tab group.
+3. Click the "Save Tabs" button to save your tab group.
+4. To view your new bookmarks folder, check youtr bookmarks. It is going to be at the top level or under "Other bookmarks".
 
 ## Contributing
 
