@@ -16,11 +16,22 @@ To install the extension, follow these steps:
 
 ## Usage
 
-To use the extension, follow these steps:
+With this plugin, using as a base you `current tab`, you can take the group that you tab is in, and store it as a folder in bookmarks,
+with all its tabs, while closing the group. In my case they are under the `other bookmarks` section
+When you use it for `ungrouped` tabs, the folder name is the bookmarks directory will be the date and time.
+In case your window contains groups and some ungrouped tabs, the calculation is based on the current active tab.
+If it is grouped we store the whole group, if it is ungrouped we store all the ungrouped.
 
-1. Click the extension icon in the top right corner of the browser window.
+TIP: from your bookmarks bar, the opposite is possible.
+You right click on a folder, and you can open all its tabs in all possible ways, including in a new group.
+For some reason the group option is not available from your chrome://bookmarks/ page at the moment.
+
+To recap, these are the steps:
+
+1. Make sure you are in the correct tab
+2. Click the extension icon in the top right corner of the browser window.
 3. Click the "Save Tabs" button to save your tab group.
-4. To view your new bookmarks folder, check youtr bookmarks. It is going to be at the top level or under "Other bookmarks".
+4. To view your new bookmarks folder, check your bookmarks. It is going to be at the top level or under "Other bookmarks".
 
 ## Contributing
 
