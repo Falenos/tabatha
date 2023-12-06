@@ -21,6 +21,7 @@ with all its tabs, while closing the group. In my case they are under the `other
 When you use it for `ungrouped` tabs, the folder name is the bookmarks directory will be the date and time.
 In case your window contains groups and some ungrouped tabs, the calculation is based on the current active tab.
 If it is grouped we store the whole group, if it is ungrouped we store all the ungrouped.
+Finally, if you click the button and you already have a bookmarks folder with the same name, its contents will be overwritten with the current group tabs.
 
 TIP: from your bookmarks bar, the opposite is possible.
 You right click on a folder, and you can open all its tabs in all possible ways, including in a new group.
